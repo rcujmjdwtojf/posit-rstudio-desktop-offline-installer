@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Data+Science+IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Posit RStudio Desktop Free Installer** — Posit RStudio Desktop (formerly RStudio) is the free integrated development environment for R statistical programming. Works without internet access, no account required. Full offline installation.
+**💻 Posit RStudio Desktop Free Installer** — Posit RStudio Desktop (formerly RStudio) is the free integrated development environment for the R statistical programming language. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Posit RStudio Desktop
 
-Posit RStudio Desktop (formerly RStudio) is the free integrated development environment for R statistical programming. Features include a script editor, interactive R console, environment inspector, plot viewer, package manager, and debugging tools. The definitive IDE for R users, RStudio Desktop makes data analysis, statistical modeling, and report generation with R Markdown efficient and organized.
+Posit RStudio Desktop (formerly RStudio) is the free integrated development environment for the R statistical programming language. It provides a console, script editor, environment browser, plot viewer, and package manager — the standard IDE for R programmers.
 
 ---
 
 ## ❌ Problem: Posit RStudio Desktop is hard to access
 
-- **R Dependency** — Requires R installation; IDE alone cannot run code
-- **Resource Usage** — Loads entire R environment into memory; memory-intensive for large datasets
-- **Python Support** — Python support via reticulate less seamless than native R experience
-- **Startup Time** — Loads slowly compared to lightweight text editors
+- **R Dependency** — Requires separate R installation
+- **R Learning Curve** — R programming language has a steep learning curve for non-statisticians
+- **Memory Usage** — Large datasets loaded into R memory require significant RAM
+- **Python Secondary** — Python support added but R is the primary language focus
 
 ---
 
@@ -121,7 +121,7 @@ Posit RStudio Desktop (formerly RStudio) is the free integrated development envi
 
 ---
 
-**Posit RStudio Desktop Free Installer** — Posit RStudio Desktop (formerly RStudio) is the free integrated development environment for R statistical programming. Install without internet connection today!
+**Posit RStudio Desktop Free Installer** — Posit RStudio Desktop (formerly RStudio) is the free integrated development environment for the R statistical programming language. Install without internet connection today!
 
 <div align="center">
 
